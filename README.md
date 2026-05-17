@@ -37,6 +37,6 @@ The dataset contains customer-level purchasing information, including:
 - The 17–23 purchase frequency group has the largest customer base, while the >23 group has the highest average purchase amount.
 
 # Files
-- `sql/customer_purchasing_analysis.sql`: SQL queries used for analysis
-- `data/sample_customer_purchasing_behaviors.csv`: Sample dataset
+- `customer-purchase-analysis.sql`: SQL queries used for analysis
+- `Customer Purchasing Behaviours.csv`: Sample dataset
 - `outputs/`: Query result screenshots
