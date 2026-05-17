@@ -1,0 +1,13 @@
+,No_of_customers,Avg_age,Avg_income,Avg_loyalty_score,Total purchase,Avg purchase frequency,
+North,,,,,,,
+South,,,,,,,
+East,,,,,,,
+West,,,,,,,
+Total,sum(total),avg(total),avg(total),avg(total),sum(total),avg(total),
+,,,,,,,
+,,,,,,,
+,,,,32.35,38,39310,38.81%
+,,,,32.35,31,32100,31.69%
+,,,,32.77,27,27970,27.61%
+,,,,2.52,1,1920,1.90%
+,,,,,,101300,
